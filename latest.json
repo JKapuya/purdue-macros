@@ -6,23 +6,24 @@
       {
         "hall": "Ford",
         "totals": {
-          "calories": 604,
-          "protein": 25,
-          "carbs": 66,
-          "fat": 30,
-          "fiber": 15,
-          "sodium": 954,
-          "density": 4.1,
+          "calories": 643,
+          "protein": 34,
+          "carbs": 62,
+          "fat": 34,
+          "fiber": 16,
+          "sodium": 1096,
+          "density": 5.3,
           "hits_goal": false,
-          "sodium_pct": 41,
+          "sodium_pct": 48,
           "salty": false,
           "blocked": null
         },
         "plate": [
-          "Scrambled Eggs",
-          "Texas Toast French Toast",
+          "2\u00d7 Scrambled Eggs",
+          "Hard Cooked Eggs",
           "Red Raspberries",
-          "Oatmeal"
+          "Oatmeal",
+          "GF White Bread"
         ]
       }
     ],
