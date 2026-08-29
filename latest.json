@@ -1,0 +1,191 @@
+{
+  "date": "2026-08-29",
+  "profile": "lean",
+  "meals": {
+    "Breakfast": [
+      {
+        "hall": "Ford",
+        "totals": {
+          "calories": 604,
+          "protein": 25,
+          "carbs": 66,
+          "fat": 30,
+          "fiber": 15,
+          "sodium": 954,
+          "density": 4.1,
+          "hits_goal": false,
+          "sodium_pct": 41,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "Scrambled Eggs",
+          "Texas Toast French Toast",
+          "Red Raspberries",
+          "Oatmeal"
+        ]
+      }
+    ],
+    "Lunch": [
+      {
+        "hall": "Wiley",
+        "totals": {
+          "calories": 639,
+          "protein": 52,
+          "carbs": 62,
+          "fat": 21,
+          "fiber": 13,
+          "sodium": 2128,
+          "density": 8.1,
+          "hits_goal": true,
+          "sodium_pct": 93,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "Roasted Cajun Chicken Drumsticks",
+          "Pescado A La Veracruzana (Tilapia Vcruz)",
+          "Vegetarian Burger",
+          "Peas",
+          "5\" Flour Tortilla"
+        ]
+      },
+      {
+        "hall": "Ford",
+        "totals": {
+          "calories": 641,
+          "protein": 46,
+          "carbs": 47,
+          "fat": 31,
+          "fiber": 9,
+          "sodium": 1613,
+          "density": 7.2,
+          "hits_goal": true,
+          "sodium_pct": 70,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "Scrambled Eggs",
+          "Vegetarian Burger",
+          "Tempura Chicken",
+          "Steamed Edamame",
+          "Hard Cooked Eggs"
+        ]
+      },
+      {
+        "hall": "Earhart",
+        "totals": {
+          "calories": 580,
+          "protein": 27,
+          "carbs": 83,
+          "fat": 18,
+          "fiber": 12,
+          "sodium": 1610,
+          "density": 4.7,
+          "hits_goal": false,
+          "sodium_pct": 70,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "Vegetarian Burger",
+          "Tempura Chicken",
+          "GF Hamburger Bun"
+        ]
+      }
+    ],
+    "Late Lunch": [
+      {
+        "hall": "Windsor",
+        "totals": {
+          "calories": 621,
+          "protein": 32,
+          "carbs": 84,
+          "fat": 18,
+          "fiber": 15,
+          "sodium": 1550,
+          "density": 5.2,
+          "hits_goal": false,
+          "sodium_pct": 67,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "Vegetarian Burger",
+          "Lasagna",
+          "Black Bean Vegetable Fajitas"
+        ]
+      }
+    ],
+    "Dinner": [
+      {
+        "hall": "Wiley",
+        "totals": {
+          "calories": 615,
+          "protein": 40,
+          "carbs": 80,
+          "fat": 16,
+          "fiber": 10,
+          "sodium": 1675,
+          "density": 6.5,
+          "hits_goal": false,
+          "sodium_pct": 73,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "Pescado A La Veracruzana (Tilapia Vcruz)",
+          "Vegetarian Burger",
+          "Rotini"
+        ]
+      },
+      {
+        "hall": "Windsor",
+        "totals": {
+          "calories": 621,
+          "protein": 32,
+          "carbs": 84,
+          "fat": 18,
+          "fiber": 15,
+          "sodium": 1550,
+          "density": 5.2,
+          "hits_goal": false,
+          "sodium_pct": 67,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "Vegetarian Burger",
+          "Lasagna",
+          "Black Bean Vegetable Fajitas"
+        ]
+      },
+      {
+        "hall": "Earhart",
+        "totals": {
+          "calories": 621,
+          "protein": 28,
+          "carbs": 91,
+          "fat": 16,
+          "fiber": 10,
+          "sodium": 1596,
+          "density": 4.5,
+          "hits_goal": false,
+          "sodium_pct": 69,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "Vegetarian Burger",
+          "Tempura Chicken",
+          "Onion Hamburger Bun",
+          "GF White Bread"
+        ]
+      }
+    ]
+  },
+  "closed": [
+    "Hillenbrand"
+  ]
+}
