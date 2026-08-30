@@ -1,192 +1,233 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "profile": "lean",
   "meals": {
     "Breakfast": [
       {
         "hall": "Ford",
         "totals": {
-          "calories": 643,
-          "protein": 34,
-          "carbs": 62,
-          "fat": 34,
-          "fiber": 16,
-          "sodium": 1096,
+          "calories": 617,
+          "protein": 33,
+          "carbs": 51,
+          "fat": 33,
+          "fiber": 5,
+          "sodium": 1145,
           "density": 5.3,
           "hits_goal": false,
-          "sodium_pct": 48,
+          "sodium_pct": 50,
           "salty": false,
           "blocked": null
         },
         "plate": [
           "2\u00d7 Scrambled Eggs",
           "Hard Cooked Eggs",
-          "Red Raspberries",
           "Oatmeal",
+          "Pancakes",
           "GF White Bread"
+        ]
+      }
+    ],
+    "Brunch": [
+      {
+        "hall": "Hillenbrand",
+        "totals": {
+          "calories": 617,
+          "protein": 49,
+          "carbs": 10,
+          "fat": 47,
+          "fiber": 0,
+          "sodium": 1814,
+          "density": 7.9,
+          "hits_goal": true,
+          "sodium_pct": 79,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "2\u00d7 Eggless Scrambled Eggs",
+          "Eggless Western Scrambled Eggs",
+          "Scrambled Eggs"
         ]
       }
     ],
     "Lunch": [
       {
-        "hall": "Wiley",
+        "hall": "Windsor",
         "totals": {
-          "calories": 639,
-          "protein": 52,
-          "carbs": 62,
-          "fat": 21,
-          "fiber": 13,
-          "sodium": 2128,
-          "density": 8.1,
+          "calories": 637,
+          "protein": 63,
+          "carbs": 60,
+          "fat": 17,
+          "fiber": 17,
+          "sodium": 2348,
+          "density": 9.9,
           "hits_goal": true,
-          "sodium_pct": 93,
+          "sodium_pct": 102,
           "salty": false,
           "blocked": null
         },
         "plate": [
-          "Roasted Cajun Chicken Drumsticks",
-          "Pescado A La Veracruzana (Tilapia Vcruz)",
+          "Diced Chicken for Burrito Bowl",
+          "Hearty Vegetarian Chili",
+          "Garlic Herb Chicken Strip",
+          "Roasted Broccoli",
+          "Vegetarian Burger"
+        ]
+      },
+      {
+        "hall": "Earhart",
+        "totals": {
+          "calories": 591,
+          "protein": 42,
+          "carbs": 80,
+          "fat": 13,
+          "fiber": 9,
+          "sodium": 1878,
+          "density": 7.1,
+          "hits_goal": false,
+          "sodium_pct": 82,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "Breaded Pork Tenderloin",
           "Vegetarian Burger",
-          "Peas",
-          "5\" Flour Tortilla"
+          "Pork Potstickers",
+          "Linguini"
         ]
       },
       {
         "hall": "Ford",
         "totals": {
-          "calories": 641,
-          "protein": 46,
-          "carbs": 47,
-          "fat": 31,
-          "fiber": 9,
-          "sodium": 1613,
-          "density": 7.2,
-          "hits_goal": true,
-          "sodium_pct": 70,
-          "salty": false,
-          "blocked": null
-        },
-        "plate": [
-          "Scrambled Eggs",
-          "Vegetarian Burger",
-          "Tempura Chicken",
-          "Steamed Edamame",
-          "Hard Cooked Eggs"
-        ]
-      },
-      {
-        "hall": "Earhart",
-        "totals": {
-          "calories": 580,
-          "protein": 27,
-          "carbs": 83,
-          "fat": 18,
-          "fiber": 12,
-          "sodium": 1610,
-          "density": 4.7,
+          "calories": 617,
+          "protein": 35,
+          "carbs": 73,
+          "fat": 22,
+          "fiber": 10,
+          "sodium": 1947,
+          "density": 5.7,
           "hits_goal": false,
-          "sodium_pct": 70,
-          "salty": false,
-          "blocked": null
-        },
-        "plate": [
-          "Vegetarian Burger",
-          "Tempura Chicken",
-          "GF Hamburger Bun"
-        ]
-      }
-    ],
-    "Late Lunch": [
-      {
-        "hall": "Windsor",
-        "totals": {
-          "calories": 621,
-          "protein": 32,
-          "carbs": 84,
-          "fat": 18,
-          "fiber": 15,
-          "sodium": 1550,
-          "density": 5.2,
-          "hits_goal": false,
-          "sodium_pct": 67,
+          "sodium_pct": 85,
           "salty": false,
           "blocked": null
         },
         "plate": [
           "Vegetarian Burger",
           "Lasagna",
-          "Black Bean Vegetable Fajitas"
+          "Vegetable Lasagna"
         ]
       }
     ],
     "Dinner": [
       {
-        "hall": "Wiley",
+        "hall": "Hillenbrand",
         "totals": {
-          "calories": 615,
-          "protein": 40,
-          "carbs": 80,
-          "fat": 16,
-          "fiber": 10,
-          "sodium": 1675,
-          "density": 6.5,
-          "hits_goal": false,
-          "sodium_pct": 73,
+          "calories": 592,
+          "protein": 50,
+          "carbs": 43,
+          "fat": 24,
+          "fiber": 1,
+          "sodium": 1567,
+          "density": 8.4,
+          "hits_goal": true,
+          "sodium_pct": 68,
           "salty": false,
           "blocked": null
         },
         "plate": [
-          "Pescado A La Veracruzana (Tilapia Vcruz)",
-          "Vegetarian Burger",
-          "Rotini"
+          "Chicken Thighs with Princess Rub",
+          "Scrambled Eggs",
+          "Tempura Chicken",
+          "Garlic and Herb Breadstick"
         ]
       },
       {
         "hall": "Windsor",
         "totals": {
-          "calories": 621,
-          "protein": 32,
-          "carbs": 84,
+          "calories": 644,
+          "protein": 49,
+          "carbs": 57,
+          "fat": 25,
+          "fiber": 116,
+          "sodium": 1916,
+          "density": 7.6,
+          "hits_goal": true,
+          "sodium_pct": 83,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "Fajita Seasoned Beef",
+          "Hearty Vegetarian Chili",
+          "Vegetarian Burger",
+          "Chorizo Pork Sausage",
+          "Roasted Broccoli"
+        ]
+      },
+      {
+        "hall": "Wiley",
+        "totals": {
+          "calories": 568,
+          "protein": 40,
+          "carbs": 64,
           "fat": 18,
-          "fiber": 15,
-          "sodium": 1550,
-          "density": 5.2,
+          "fiber": 12,
+          "sodium": 1460,
+          "density": 7.0,
           "hits_goal": false,
-          "sodium_pct": 67,
+          "sodium_pct": 63,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "Wiley's Chicken Tacos",
+          "Vegetarian Burger",
+          "Lasagna",
+          "Peas"
+        ]
+      },
+      {
+        "hall": "Ford",
+        "totals": {
+          "calories": 617,
+          "protein": 35,
+          "carbs": 73,
+          "fat": 22,
+          "fiber": 10,
+          "sodium": 1947,
+          "density": 5.7,
+          "hits_goal": false,
+          "sodium_pct": 85,
           "salty": false,
           "blocked": null
         },
         "plate": [
           "Vegetarian Burger",
           "Lasagna",
-          "Black Bean Vegetable Fajitas"
+          "Vegetable Lasagna"
         ]
       },
       {
         "hall": "Earhart",
         "totals": {
-          "calories": 621,
-          "protein": 28,
-          "carbs": 91,
-          "fat": 16,
-          "fiber": 10,
-          "sodium": 1596,
-          "density": 4.5,
+          "calories": 633,
+          "protein": 29,
+          "carbs": 78,
+          "fat": 22,
+          "fiber": 8,
+          "sodium": 1704,
+          "density": 4.6,
           "hits_goal": false,
-          "sodium_pct": 69,
+          "sodium_pct": 74,
           "salty": false,
           "blocked": null
         },
         "plate": [
           "Vegetarian Burger",
-          "Tempura Chicken",
-          "Onion Hamburger Bun",
-          "GF White Bread"
+          "Chicken And Noodles"
         ]
       }
     ]
   },
-  "closed": [
-    "Hillenbrand"
-  ]
+  "closed": []
 }
