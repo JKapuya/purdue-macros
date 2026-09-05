@@ -1,71 +1,28 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "profile": "lean",
   "meals": {
     "Breakfast": [
       {
-        "hall": "Wiley",
-        "totals": {
-          "calories": 626,
-          "protein": 40,
-          "carbs": 27,
-          "fat": 43,
-          "fiber": 2,
-          "sodium": 1342,
-          "density": 6.4,
-          "hits_goal": false,
-          "sodium_pct": 58,
-          "salty": false,
-          "blocked": null
-        },
-        "plate": [
-          "3\u00d7 Scrambled Eggs",
-          "Hard Cooked Eggs",
-          "GF White Bread"
-        ]
-      },
-      {
-        "hall": "Earhart",
-        "totals": {
-          "calories": 611,
-          "protein": 37,
-          "carbs": 40,
-          "fat": 34,
-          "fiber": 4,
-          "sodium": 1747,
-          "density": 6.1,
-          "hits_goal": false,
-          "sodium_pct": 76,
-          "salty": false,
-          "blocked": null
-        },
-        "plate": [
-          "Vegetarian Breakfast Patty",
-          "Scrambled Eggs",
-          "Ham And Potato Casserole",
-          "Oatmeal"
-        ]
-      },
-      {
         "hall": "Ford",
         "totals": {
-          "calories": 617,
-          "protein": 33,
-          "carbs": 51,
-          "fat": 33,
-          "fiber": 5,
-          "sodium": 1145,
-          "density": 5.3,
+          "calories": 528,
+          "protein": 26,
+          "carbs": 59,
+          "fat": 22,
+          "fiber": 9,
+          "sodium": 1025,
+          "density": 4.9,
           "hits_goal": false,
-          "sodium_pct": 50,
+          "sodium_pct": 45,
           "salty": false,
           "blocked": null
         },
         "plate": [
-          "2\u00d7 Scrambled Eggs",
-          "Hard Cooked Eggs",
+          "Southern Style Chicken Breast Patty",
+          "Scrambled Eggs",
           "Oatmeal",
-          "Pancakes",
+          "Berry Mix",
           "GF White Bread"
         ]
       }
@@ -74,89 +31,67 @@
       {
         "hall": "Wiley",
         "totals": {
-          "calories": 631,
-          "protein": 64,
-          "carbs": 47,
-          "fat": 26,
-          "fiber": 7,
-          "sodium": 2617,
-          "density": 10.1,
-          "hits_goal": true,
-          "sodium_pct": 114,
+          "calories": 646,
+          "protein": 44,
+          "carbs": 56,
+          "fat": 28,
+          "fiber": 12,
+          "sodium": 1456,
+          "density": 6.8,
+          "hits_goal": false,
+          "sodium_pct": 63,
           "salty": false,
           "blocked": null
         },
         "plate": [
-          "Chicken Fajitas",
-          "Garlic Herb Chicken Strip",
-          "Vegetarian Chicken Nuggets"
-        ]
-      },
-      {
-        "hall": "Windsor",
-        "totals": {
-          "calories": 594,
-          "protein": 53,
-          "carbs": 51,
-          "fat": 22,
-          "fiber": 13,
-          "sodium": 2297,
-          "density": 8.9,
-          "hits_goal": true,
-          "sodium_pct": 100,
-          "salty": false,
-          "blocked": null
-        },
-        "plate": [
-          "2\u00d7 Garlic Herb Chicken Strip",
-          "Parmesan Peas",
+          "Steak Fajitas",
           "Vegetarian Burger",
-          "Peas",
-          "Bacon Bits"
+          "Roasted Brussels Sprouts",
+          "5\" Flour Tortilla"
         ]
       },
       {
         "hall": "Ford",
         "totals": {
-          "calories": 645,
-          "protein": 37,
-          "carbs": 60,
-          "fat": 29,
-          "fiber": 15,
-          "sodium": 1491,
-          "density": 5.7,
+          "calories": 618,
+          "protein": 40,
+          "carbs": 48,
+          "fat": 31,
+          "fiber": 11,
+          "sodium": 1729,
+          "density": 6.5,
           "hits_goal": false,
-          "sodium_pct": 65,
+          "sodium_pct": 75,
           "salty": false,
           "blocked": null
         },
         "plate": [
+          "Chili",
+          "Scrambled Eggs",
           "Vegetarian Burger",
-          "Pork & Broccoli Stir Fry",
-          "Steamed Edamame",
-          "Lemon Herb Garbanzo Bean Salad"
+          "Hard Cooked Eggs"
         ]
       },
       {
         "hall": "Earhart",
         "totals": {
-          "calories": 615,
-          "protein": 27,
-          "carbs": 66,
-          "fat": 29,
-          "fiber": 15,
-          "sodium": 1755,
-          "density": 4.4,
+          "calories": 645,
+          "protein": 39,
+          "carbs": 54,
+          "fat": 32,
+          "fiber": 11,
+          "sodium": 1533,
+          "density": 6.0,
           "hits_goal": false,
-          "sodium_pct": 76,
+          "sodium_pct": 67,
           "salty": false,
           "blocked": null
         },
         "plate": [
+          "Flame Grilled Chicken Burger",
           "Vegetarian Burger",
-          "Pub House Battered Pollock",
-          "Thai Curry Veggie Burger",
-          "Roasted Seasoned Broccoli"
+          "Roasted Parmesan Edamame",
+          "Roasted Garlic Herb Fingerling Potatoes"
         ]
       }
     ],
@@ -164,115 +99,97 @@
       {
         "hall": "Windsor",
         "totals": {
-          "calories": 594,
-          "protein": 53,
-          "carbs": 51,
-          "fat": 22,
-          "fiber": 13,
-          "sodium": 2297,
-          "density": 8.9,
-          "hits_goal": true,
-          "sodium_pct": 100,
+          "calories": 645,
+          "protein": 43,
+          "carbs": 52,
+          "fat": 34,
+          "fiber": 113,
+          "sodium": 2070,
+          "density": 6.7,
+          "hits_goal": false,
+          "sodium_pct": 90,
           "salty": false,
           "blocked": null
         },
         "plate": [
-          "2\u00d7 Garlic Herb Chicken Strip",
-          "Parmesan Peas",
+          "Cheddar & Broccoli Egg Bake",
+          "Scrambled Eggs",
           "Vegetarian Burger",
-          "Peas",
-          "Bacon Bits"
+          "Chorizo Pork Sausage",
+          "Vegan Breakfast Scramble"
         ]
       }
     ],
     "Dinner": [
       {
-        "hall": "Hillenbrand",
-        "totals": {
-          "calories": 630,
-          "protein": 43,
-          "carbs": 30,
-          "fat": 40,
-          "fiber": 6,
-          "sodium": 2522,
-          "density": 6.8,
-          "hits_goal": false,
-          "sodium_pct": 110,
-          "salty": false,
-          "blocked": null
-        },
-        "plate": [
-          "Veggie Burger",
-          "Steakhouse Pork Chop",
-          "Bacon Bits"
-        ]
-      },
-      {
         "hall": "Wiley",
         "totals": {
-          "calories": 632,
-          "protein": 40,
+          "calories": 644,
+          "protein": 51,
           "carbs": 58,
-          "fat": 27,
-          "fiber": 10,
-          "sodium": 1875,
-          "density": 6.3,
-          "hits_goal": false,
-          "sodium_pct": 82,
+          "fat": 25,
+          "fiber": 16,
+          "sodium": 1327,
+          "density": 7.9,
+          "hits_goal": true,
+          "sodium_pct": 58,
           "salty": false,
           "blocked": null
         },
         "plate": [
-          "Smoked Pulled Pork",
+          "Spicy Black Bean Burger",
+          "Xochitl's Al Pastor Pork",
           "Vegetarian Burger",
-          "Roasted Broccoli",
-          "Cowabunga Pizza"
+          "Peas"
         ]
       },
       {
-        "hall": "Ford",
+        "hall": "Windsor",
         "totals": {
-          "calories": 628,
-          "protein": 38,
-          "carbs": 36,
-          "fat": 37,
-          "fiber": 7,
-          "sodium": 1430,
-          "density": 6.1,
+          "calories": 645,
+          "protein": 43,
+          "carbs": 52,
+          "fat": 34,
+          "fiber": 113,
+          "sodium": 2070,
+          "density": 6.7,
           "hits_goal": false,
-          "sodium_pct": 62,
+          "sodium_pct": 90,
           "salty": false,
           "blocked": null
         },
         "plate": [
+          "Cheddar & Broccoli Egg Bake",
+          "Scrambled Eggs",
           "Vegetarian Burger",
-          "Hamburger",
-          "Spicy Stir Fry Pork (Dwaejigogi Bokkeum)"
+          "Chorizo Pork Sausage",
+          "Vegan Breakfast Scramble"
         ]
       },
       {
         "hall": "Earhart",
         "totals": {
-          "calories": 637,
-          "protein": 32,
-          "carbs": 57,
-          "fat": 31,
-          "fiber": 10,
-          "sodium": 1942,
-          "density": 5.0,
+          "calories": 551,
+          "protein": 33,
+          "carbs": 49,
+          "fat": 27,
+          "fiber": 11,
+          "sodium": 1634,
+          "density": 6.0,
           "hits_goal": false,
-          "sodium_pct": 84,
+          "sodium_pct": 71,
           "salty": false,
           "blocked": null
         },
         "plate": [
+          "Flame Grilled Chicken Burger",
           "Vegetarian Burger",
-          "Pub House Battered Pollock",
-          "Sloppy Joe",
-          "Roasted Seasoned Broccoli"
+          "Thai Curry Veggie Burger"
         ]
       }
     ]
   },
-  "closed": []
+  "closed": [
+    "Hillenbrand"
+  ]
 }
