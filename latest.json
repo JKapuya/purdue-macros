@@ -1,230 +1,187 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "profile": "lean",
   "meals": {
     "Breakfast": [
       {
+        "hall": "Wiley",
+        "totals": {
+          "calories": 626,
+          "protein": 40,
+          "carbs": 27,
+          "fat": 43,
+          "fiber": 2,
+          "sodium": 1342,
+          "density": 6.4,
+          "hits_goal": false,
+          "sodium_pct": 58,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "3\u00d7 Scrambled Eggs",
+          "Hard Cooked Eggs",
+          "GF White Bread"
+        ]
+      },
+      {
         "hall": "Earhart",
         "totals": {
-          "calories": 597,
-          "protein": 41,
-          "carbs": 56,
-          "fat": 25,
-          "fiber": 3,
-          "sodium": 1439,
-          "density": 6.9,
+          "calories": 593,
+          "protein": 36,
+          "carbs": 44,
+          "fat": 32,
+          "fiber": 5,
+          "sodium": 1568,
+          "density": 6.1,
           "hits_goal": false,
-          "sodium_pct": 63,
+          "sodium_pct": 68,
           "salty": false,
           "blocked": null
         },
         "plate": [
           "Vegetarian Breakfast Patty",
           "Scrambled Eggs",
-          "Blueberry Bagel",
-          "Hard Cooked Eggs",
-          "Bacon Bits"
+          "Eggs Benedict Casserole",
+          "Oatmeal",
+          "Pancakes"
         ]
       },
       {
         "hall": "Ford",
         "totals": {
-          "calories": 617,
-          "protein": 33,
-          "carbs": 51,
-          "fat": 33,
+          "calories": 530,
+          "protein": 27,
+          "carbs": 49,
+          "fat": 26,
           "fiber": 5,
-          "sodium": 1145,
-          "density": 5.3,
+          "sodium": 1036,
+          "density": 5.1,
           "hits_goal": false,
-          "sodium_pct": 50,
+          "sodium_pct": 45,
           "salty": false,
           "blocked": null
         },
         "plate": [
-          "2\u00d7 Scrambled Eggs",
-          "Hard Cooked Eggs",
+          "Chicken Sausage Patty",
+          "Scrambled Eggs",
           "Oatmeal",
           "Pancakes",
-          "GF White Bread"
-        ]
-      },
-      {
-        "hall": "Wiley",
-        "totals": {
-          "calories": 541,
-          "protein": 30,
-          "carbs": 41,
-          "fat": 31,
-          "fiber": 3,
-          "sodium": 966,
-          "density": 5.5,
-          "hits_goal": false,
-          "sodium_pct": 42,
-          "salty": false,
-          "blocked": null
-        },
-        "plate": [
-          "2\u00d7 Scrambled Eggs",
-          "Hard Cooked Eggs",
-          "Pineapple Chunks",
           "GF White Bread"
         ]
       }
     ],
     "Lunch": [
       {
-        "hall": "Wiley",
+        "hall": "Windsor",
         "totals": {
-          "calories": 598,
-          "protein": 82,
-          "carbs": 21,
-          "fat": 19,
-          "fiber": 5,
-          "sodium": 3312,
-          "density": 13.7,
-          "hits_goal": true,
-          "sodium_pct": 144,
-          "salty": false,
-          "blocked": null
-        },
-        "plate": [
-          "Roasted Lemon Herb Chicken Breast",
-          "Chicken Fajitas",
-          "Garlic Herb Chicken Strip",
-          "Peas"
-        ]
-      },
-      {
-        "hall": "Earhart",
-        "totals": {
-          "calories": 638,
-          "protein": 69,
-          "carbs": 45,
-          "fat": 21,
+          "calories": 617,
+          "protein": 47,
+          "carbs": 34,
+          "fat": 32,
           "fiber": 7,
-          "sodium": 2800,
-          "density": 10.8,
+          "sodium": 1335,
+          "density": 7.6,
           "hits_goal": true,
-          "sodium_pct": 122,
+          "sodium_pct": 58,
           "salty": false,
           "blocked": null
         },
         "plate": [
-          "Chicken for Noodle & Rice Bowls",
-          "Vegetarian Burger",
-          "BBQ Chicken Breast",
-          "Bacon Bits"
+          "Breaded Chicken Breast",
+          "Halal Indian Dum Gosht",
+          "Peas"
         ]
       },
       {
         "hall": "Ford",
         "totals": {
-          "calories": 619,
-          "protein": 53,
-          "carbs": 52,
-          "fat": 22,
-          "fiber": 10,
-          "sodium": 1591,
-          "density": 8.6,
-          "hits_goal": true,
-          "sodium_pct": 69,
+          "calories": 633,
+          "protein": 44,
+          "carbs": 73,
+          "fat": 19,
+          "fiber": 9,
+          "sodium": 2330,
+          "density": 7.0,
+          "hits_goal": false,
+          "sodium_pct": 101,
           "salty": false,
           "blocked": null
         },
         "plate": [
-          "Chicken for Noodle & Rice Bowls",
+          "Panko Breaded Fish",
           "Vegetarian Burger",
-          "Steamed Edamame",
-          "Buffalo Chicken Pizza"
+          "Crispy Sesame Ginger Tofu",
+          "Crispy Sesame Ginger Tofu ",
+          "Ham Pizza"
         ]
       },
       {
-        "hall": "Hillenbrand",
+        "hall": "Wiley",
         "totals": {
-          "calories": 568,
-          "protein": 43,
-          "carbs": 62,
-          "fat": 17,
-          "fiber": 11,
-          "sodium": 717,
-          "density": 7.6,
-          "hits_goal": false,
-          "sodium_pct": 31,
-          "salty": false,
-          "blocked": null
-        },
-        "plate": [
-          "Buffalo Lime Chicken Thighs",
-          "Bean and Cheese Burrito",
-          "Corn"
-        ]
-      },
-      {
-        "hall": "Windsor",
-        "totals": {
-          "calories": 596,
+          "calories": 647,
           "protein": 36,
-          "carbs": 68,
-          "fat": 21,
+          "carbs": 82,
+          "fat": 20,
           "fiber": 12,
-          "sodium": 2177,
-          "density": 6.0,
+          "sodium": 2152,
+          "density": 5.6,
           "hits_goal": false,
-          "sodium_pct": 95,
+          "sodium_pct": 94,
           "salty": false,
           "blocked": null
         },
         "plate": [
           "Garlic Herb Chicken Strip",
           "Vegetarian Burger",
-          "Garlic Herb Parmesan Flatbread",
-          "Roasted Brussels Sprouts"
+          "White Chicken Jalapeno Pizza",
+          "Rachel's Refried Beans",
+          "GF White Bread"
+        ]
+      },
+      {
+        "hall": "Earhart",
+        "totals": {
+          "calories": 545,
+          "protein": 22,
+          "carbs": 69,
+          "fat": 23,
+          "fiber": 13,
+          "sodium": 1331,
+          "density": 4.0,
+          "hits_goal": false,
+          "sodium_pct": 58,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "Vegetarian Burger",
+          "Thai Curry Veggie Burger",
+          "Pork Potstickers",
+          "Dark Chocolate Sea Salt Seed'nola"
         ]
       }
     ],
     "Late Lunch": [
       {
-        "hall": "Hillenbrand",
-        "totals": {
-          "calories": 568,
-          "protein": 43,
-          "carbs": 62,
-          "fat": 17,
-          "fiber": 11,
-          "sodium": 717,
-          "density": 7.6,
-          "hits_goal": false,
-          "sodium_pct": 31,
-          "salty": false,
-          "blocked": null
-        },
-        "plate": [
-          "Buffalo Lime Chicken Thighs",
-          "Bean and Cheese Burrito",
-          "Corn"
-        ]
-      },
-      {
         "hall": "Windsor",
         "totals": {
-          "calories": 596,
-          "protein": 36,
-          "carbs": 68,
-          "fat": 21,
-          "fiber": 12,
-          "sodium": 2177,
-          "density": 6.0,
-          "hits_goal": false,
-          "sodium_pct": 95,
+          "calories": 617,
+          "protein": 47,
+          "carbs": 34,
+          "fat": 32,
+          "fiber": 7,
+          "sodium": 1335,
+          "density": 7.6,
+          "hits_goal": true,
+          "sodium_pct": 58,
           "salty": false,
           "blocked": null
         },
         "plate": [
-          "Garlic Herb Chicken Strip",
-          "Vegetarian Burger",
-          "Garlic Herb Parmesan Flatbread",
-          "Roasted Brussels Sprouts"
+          "Breaded Chicken Breast",
+          "Halal Indian Dum Gosht",
+          "Peas"
         ]
       }
     ],
@@ -232,107 +189,89 @@
       {
         "hall": "Wiley",
         "totals": {
-          "calories": 625,
-          "protein": 63,
-          "carbs": 7,
-          "fat": 36,
-          "fiber": 2,
-          "sodium": 1398,
-          "density": 10.1,
+          "calories": 606,
+          "protein": 45,
+          "carbs": 46,
+          "fat": 27,
+          "fiber": 11,
+          "sodium": 1307,
+          "density": 7.4,
           "hits_goal": true,
-          "sodium_pct": 61,
+          "sodium_pct": 57,
           "salty": false,
           "blocked": null
         },
         "plate": [
-          "Chorichicken",
-          "Chicken Piccata"
+          "Beef Pot Roast",
+          "Vegetarian Burger",
+          "Cheese Flautas",
+          "Peas"
         ]
       },
       {
         "hall": "Earhart",
         "totals": {
-          "calories": 600,
-          "protein": 53,
-          "carbs": 29,
-          "fat": 31,
-          "fiber": 7,
-          "sodium": 1443,
-          "density": 8.8,
-          "hits_goal": true,
-          "sodium_pct": 63,
-          "salty": false,
-          "blocked": null
-        },
-        "plate": [
-          "Chicken for Noodle & Rice Bowls",
-          "Vegetarian Burger",
-          "Hamburger"
-        ]
-      },
-      {
-        "hall": "Windsor",
-        "totals": {
-          "calories": 649,
-          "protein": 46,
-          "carbs": 65,
-          "fat": 25,
-          "fiber": 13,
-          "sodium": 2065,
-          "density": 7.1,
-          "hits_goal": true,
-          "sodium_pct": 90,
-          "salty": false,
-          "blocked": null
-        },
-        "plate": [
-          "African T'ibs We't Halal",
-          "Garlic Herb Chicken Strip",
-          "Vegetarian Burger",
-          "Roasted Brussels Sprouts",
-          "Hot Dog Bun"
-        ]
-      },
-      {
-        "hall": "Hillenbrand",
-        "totals": {
-          "calories": 568,
-          "protein": 43,
+          "calories": 610,
+          "protein": 44,
           "carbs": 62,
-          "fat": 17,
-          "fiber": 11,
-          "sodium": 717,
-          "density": 7.6,
+          "fat": 21,
+          "fiber": 8,
+          "sodium": 1957,
+          "density": 7.2,
           "hits_goal": false,
-          "sodium_pct": 31,
+          "sodium_pct": 85,
           "salty": false,
           "blocked": null
         },
         "plate": [
-          "Buffalo Lime Chicken Thighs",
-          "Bean and Cheese Burrito",
-          "Corn"
+          "Blackened Tilapia",
+          "Vegetarian Burger",
+          "Grilled Ham and Cheese"
         ]
       },
       {
         "hall": "Ford",
         "totals": {
-          "calories": 648,
-          "protein": 25,
-          "carbs": 109,
-          "fat": 14,
-          "fiber": 10,
-          "sodium": 1630,
-          "density": 3.9,
+          "calories": 631,
+          "protein": 38,
+          "carbs": 86,
+          "fat": 16,
+          "fiber": 9,
+          "sodium": 1892,
+          "density": 6.0,
           "hits_goal": false,
-          "sodium_pct": 71,
+          "sodium_pct": 82,
           "salty": false,
           "blocked": null
         },
         "plate": [
+          "Panko Breaded Fish",
           "Vegetarian Burger",
-          "Tandoori Naan",
-          "Jasmine Rice"
+          "Crispy Sesame Ginger Tofu ",
+          "Chicken Alfredo Pizza",
+          "Sliced Peaches"
+        ]
+      },
+      {
+        "hall": "Hillenbrand",
+        "totals": {
+          "calories": 639,
+          "protein": 35,
+          "carbs": 81,
+          "fat": 21,
+          "fiber": 15,
+          "sodium": 1314,
+          "density": 5.5,
+          "hits_goal": false,
+          "sodium_pct": 57,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "BoilerQ BBQ Chicken Drumstick",
+          "Veggie Burger",
+          "Mini Corn Dogs",
+          "Corn"
         ]
       }
     ]
