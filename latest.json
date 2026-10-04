@@ -1,20 +1,20 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "profile": "lean",
   "meals": {
     "Breakfast": [
       {
         "hall": "Ford",
         "totals": {
-          "calories": 616,
-          "protein": 32,
-          "carbs": 53,
+          "calories": 617,
+          "protein": 33,
+          "carbs": 51,
           "fat": 33,
-          "fiber": 8,
-          "sodium": 1096,
-          "density": 5.2,
+          "fiber": 5,
+          "sodium": 1145,
+          "density": 5.3,
           "hits_goal": false,
-          "sodium_pct": 48,
+          "sodium_pct": 50,
           "salty": false,
           "blocked": null
         },
@@ -22,101 +22,97 @@
           "2\u00d7 Scrambled Eggs",
           "Hard Cooked Eggs",
           "Oatmeal",
-          "Berry Mix",
+          "Pancakes",
           "GF White Bread"
+        ]
+      }
+    ],
+    "Brunch": [
+      {
+        "hall": "Hillenbrand",
+        "totals": {
+          "calories": 640,
+          "protein": 38,
+          "carbs": 54,
+          "fat": 33,
+          "fiber": 5,
+          "sodium": 1214,
+          "density": 5.9,
+          "hits_goal": false,
+          "sodium_pct": 53,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "Eggless Scrambled Eggs",
+          "Scrambled Eggs",
+          "Roasted Broccoli",
+          "Eggless Scrambled Eggs w/ Peppers & Onion",
+          "Rotini"
         ]
       }
     ],
     "Lunch": [
       {
-        "hall": "Ford",
+        "hall": "Windsor",
         "totals": {
-          "calories": 611,
-          "protein": 58,
-          "carbs": 36,
-          "fat": 27,
-          "fiber": 9,
-          "sodium": 1750,
-          "density": 9.5,
+          "calories": 606,
+          "protein": 47,
+          "carbs": 49,
+          "fat": 25,
+          "fiber": 11,
+          "sodium": 1785,
+          "density": 7.8,
           "hits_goal": true,
-          "sodium_pct": 76,
+          "sodium_pct": 78,
           "salty": false,
           "blocked": null
         },
         "plate": [
-          "Chicken Breast Strip",
-          "Scrambled Eggs",
+          "African Mango Chicken",
           "Vegetarian Burger",
-          "Steamed Edamame",
-          "Hard Cooked Eggs"
+          "Vegan Pub Fried Fish"
         ]
       },
       {
-        "hall": "Wiley",
+        "hall": "Ford",
         "totals": {
-          "calories": 622,
-          "protein": 49,
-          "carbs": 65,
-          "fat": 18,
-          "fiber": 13,
-          "sodium": 2180,
-          "density": 7.9,
-          "hits_goal": true,
-          "sodium_pct": 95,
+          "calories": 608,
+          "protein": 33,
+          "carbs": 70,
+          "fat": 22,
+          "fiber": 10,
+          "sodium": 2063,
+          "density": 5.4,
+          "hits_goal": false,
+          "sodium_pct": 90,
           "salty": false,
           "blocked": null
         },
         "plate": [
-          "Shrimp Fajitas",
-          "Pescado A La Veracruzana (Tilapia Vcruz)",
           "Vegetarian Burger",
-          "Peas",
-          "5\" Flour Tortilla"
+          "Beef & Noodles",
+          "Chickpea Chole Curry"
         ]
       },
       {
         "hall": "Earhart",
         "totals": {
-          "calories": 603,
-          "protein": 23,
-          "carbs": 75,
-          "fat": 26,
-          "fiber": 14,
-          "sodium": 1556,
-          "density": 3.8,
+          "calories": 607,
+          "protein": 31,
+          "carbs": 41,
+          "fat": 35,
+          "fiber": 6,
+          "sodium": 2022,
+          "density": 5.1,
           "hits_goal": false,
-          "sodium_pct": 68,
+          "sodium_pct": 88,
           "salty": false,
           "blocked": null
         },
         "plate": [
           "Vegetarian Burger",
-          "Thai Curry Veggie Burger",
-          "Cheddar Jalapeno Potato Nugget"
-        ]
-      }
-    ],
-    "Late Lunch": [
-      {
-        "hall": "Windsor",
-        "totals": {
-          "calories": 599,
-          "protein": 35,
-          "carbs": 79,
-          "fat": 17,
-          "fiber": 17,
-          "sodium": 1754,
-          "density": 5.8,
-          "hits_goal": false,
-          "sodium_pct": 76,
-          "salty": false,
-          "blocked": null
-        },
-        "plate": [
-          "Seasoned Corn and Edamame Succotash",
-          "Vegetarian Burger",
-          "Lasagna",
-          "Roasted Broccoli"
+          "Swedish Meatballs"
         ]
       }
     ],
@@ -124,71 +120,110 @@
       {
         "hall": "Windsor",
         "totals": {
-          "calories": 599,
-          "protein": 35,
-          "carbs": 79,
+          "calories": 585,
+          "protein": 64,
+          "carbs": 41,
           "fat": 17,
-          "fiber": 17,
-          "sodium": 1754,
-          "density": 5.8,
+          "fiber": 9,
+          "sodium": 1955,
+          "density": 10.9,
+          "hits_goal": true,
+          "sodium_pct": 85,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "African Mango Chicken",
+          "Diced Chicken for Burrito Bowl",
+          "Vegetarian Burger"
+        ]
+      },
+      {
+        "hall": "Hillenbrand",
+        "totals": {
+          "calories": 602,
+          "protein": 57,
+          "carbs": 43,
+          "fat": 24,
+          "fiber": 6,
+          "sodium": 1744,
+          "density": 9.5,
+          "hits_goal": true,
+          "sodium_pct": 76,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "Breaded Pork Tenderloin",
+          "BoilerQ BBQ Chicken Drumstick",
+          "Scrambled Eggs",
+          "Veggie Burger"
+        ]
+      },
+      {
+        "hall": "Wiley",
+        "totals": {
+          "calories": 573,
+          "protein": 54,
+          "carbs": 40,
+          "fat": 21,
+          "fiber": 11,
+          "sodium": 1180,
+          "density": 9.4,
+          "hits_goal": true,
+          "sodium_pct": 51,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "Roasted Albuquerque Chicken Breast",
+          "Vegetarian Burger",
+          "Peas"
+        ]
+      },
+      {
+        "hall": "Ford",
+        "totals": {
+          "calories": 608,
+          "protein": 33,
+          "carbs": 70,
+          "fat": 22,
+          "fiber": 10,
+          "sodium": 2063,
+          "density": 5.4,
+          "hits_goal": false,
+          "sodium_pct": 90,
+          "salty": false,
+          "blocked": null
+        },
+        "plate": [
+          "Vegetarian Burger",
+          "Beef & Noodles",
+          "Chickpea Chole Curry"
+        ]
+      },
+      {
+        "hall": "Earhart",
+        "totals": {
+          "calories": 635,
+          "protein": 32,
+          "carbs": 64,
+          "fat": 24,
+          "fiber": 8,
+          "sodium": 1742,
+          "density": 5.0,
           "hits_goal": false,
           "sodium_pct": 76,
           "salty": false,
           "blocked": null
         },
         "plate": [
-          "Seasoned Corn and Edamame Succotash",
           "Vegetarian Burger",
-          "Lasagna",
-          "Roasted Broccoli"
-        ]
-      },
-      {
-        "hall": "Wiley",
-        "totals": {
-          "calories": 595,
-          "protein": 31,
-          "carbs": 83,
-          "fat": 17,
-          "fiber": 13,
-          "sodium": 1394,
-          "density": 5.2,
-          "hits_goal": false,
-          "sodium_pct": 61,
-          "salty": false,
-          "blocked": null
-        },
-        "plate": [
-          "Shrimp Fajitas",
-          "Vegetarian Burger",
-          "Roasted Brussels Sprouts",
-          "Rotini"
-        ]
-      },
-      {
-        "hall": "Earhart",
-        "totals": {
-          "calories": 623,
-          "protein": 28,
-          "carbs": 66,
-          "fat": 29,
-          "fiber": 13,
-          "sodium": 1614,
-          "density": 4.5,
-          "hits_goal": false,
-          "sodium_pct": 70,
-          "salty": false,
-          "blocked": null
-        },
-        "plate": [
-          "Vegetarian Burger",
-          "Country Fried Steak",
-          "Thai Curry Veggie Burger"
+          "Boneless Chicken Wings",
+          "Dark Chocolate Sea Salt Seed'nola"
         ]
       }
     ]
   },
-  "closed": [
-    "Hillenbrand"
-  ]
+  "closed": []
 }
